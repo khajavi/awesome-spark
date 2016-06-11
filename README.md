@@ -90,7 +90,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 
 * [Mastering Apache Spark](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/).
 * [Learning Spark, Lightning-Fast Big Data Analysis](http://shop.oreilly.com/product/0636920028512.do).
-* [Advanced Analytics with Spark](http://shop.oreilly.com/product/0636920035091.do).
+* [Advanced Analytics with Spark](http://shop.oreilly.com/product/0636920035091.do) - An useful collection of Spark processing patterns. Accompanying GitHub repository: [sryza/aas](https://github.com/sryza/aas).
 
 ### MOOCS
 
