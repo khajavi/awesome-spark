@@ -88,7 +88,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 
 ### Books
 
-* [Mastering Apache Spark](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/).
+* [Mastering Apache Spark](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/) - An interesting compilation of notes by [Jacek Laskowski](https://github.com/jaceklaskowski). Focused on different aspects of Spark internals.
 * [Learning Spark, Lightning-Fast Big Data Analysis](http://shop.oreilly.com/product/0636920028512.do).
 * [Advanced Analytics with Spark](http://shop.oreilly.com/product/0636920035091.do).
 
